@@ -1,0 +1,10 @@
+{
+  {
+    name: 'maryam',
+    drink: 'coffee'
+  }
+  {
+    name: 'ali',
+    drink: 'water'
+  }
+}
