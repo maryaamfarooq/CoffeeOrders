@@ -1,12 +1,12 @@
 [
-{
   {
-    name: 'maryam',
-    drink: 'coffee'
-  },
-  {
-    name: 'ali',
-    drink: 'water'
+    {
+      name: 'maryam',
+      drink: 'coffee'
+    },
+    {
+      name: 'ali',
+      drink: 'water'
+    }
   }
-}
 ]
